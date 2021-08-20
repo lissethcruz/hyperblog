@@ -9,5 +9,6 @@ Este curso es bueno para principiantes pero también para avanzados
 * Todo es paso a paso
 * Todo es teórico y práctico
 * Creado por la súper genial Lizo
+* Incluye ejemplos solo para Mac
 
 Y obviamente **este readme.md es meramente un chiste** y es para aprender cómo funciona esta cosa. 
